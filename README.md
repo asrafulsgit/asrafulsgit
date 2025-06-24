@@ -1,13 +1,21 @@
-## Hi , I'm  MD Asraful Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<div align="center">
+ <h1> Hi, I'm Asraful <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+</div>
+
 ![This is an alt text.](https://i.ibb.co/HDRFDw4Q/md-Asraful-islam.png")
 
-## About Me
-* I am Full Stack Developer from Bangladesh.
-* I am currently learning about Devops.
-* You can ask me about FrondEnd development and backend development.
-* My goals is Learning and developing somting new.
+---
 
-## Tools and Technologies
+## 👨‍💻 About Me
+
+- 🌍 I'm a Full Stack Web Developer from **Bangladesh**.
+- 🚀 Currently diving into **DevOps** and system deployment practices.
+- 💬 Ask me anything about **frontend** and **backend** development.
+- 🎯 Passionate about learning, building, and improving modern web technologies.
+
+---
+
+## 🛠️ Tools & Technologies
 
 ![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black&color=E34F26)
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black&color=1572B6)
@@ -26,16 +34,20 @@
 ![Mongoose](https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=880000&labelColor=black&color=880000)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=black&color=4169E1)
 
-## Github Statistics
-![Asraful's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrafulsgit&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrafulsgit&langs_count=8)
+---
 
+## 📊 GitHub Stats
+
+![Asraful's GitHub stats](https://github-readme-stats.vercel.app/api?username=asrafulsgit&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrafulsgit&layout=compact&langs_count=8&theme=radical)
+
+---
 
 ## 📫 Contact Me
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801XXXXXXXXX)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asrafulislam.dev23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-asraful-islam-b71158301)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801820286432)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://yourportfolio.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourprofile)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/yourprofile](https://www.facebook.com/Asraful2356))
 
-
+---
