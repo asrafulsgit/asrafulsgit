@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 
 - 🌍 I'm a Full Stack Web Developer from **Bangladesh**.
-- 🚀 Currently diving into **DevOps** and system deployment practices.
+- 🚀 Currently diving into **DevOps**.
 - 💬 Ask me anything about **frontend** and **backend** development.
 - 🎯 Passionate about learning, building, and improving modern web technologies.
 
